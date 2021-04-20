@@ -7,6 +7,6 @@ with sr.Microphone() as source:
   a = r.recognize_google(audio_text)
   print(a, file=open('WRITE YOUR TEXT FILE PATH OVER HERE /home/edwin/making/t.txt','w'))
   try:
-    print("Text : +r.recognize_google(audio_text))
+    print("Text :" +r.recognize_google(audio_text))
   except:
     print("sorry i didnt get that")
