@@ -1,0 +1,1 @@
+over here,youre speech is recognised and sent to a bash script.
