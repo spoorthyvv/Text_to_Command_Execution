@@ -6,3 +6,5 @@ install Git.
 Clone this Repo and try on.....
 Commands which recide in /usr/bin , /bin and any commands which are executed in the terminal can be executed.
 
+execute python3 Another.py && bash script.sh
+execute this on your terminal
